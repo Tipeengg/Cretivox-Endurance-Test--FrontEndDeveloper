@@ -1,0 +1,11 @@
+// Ikutin Rules ini 
+// 1. Silahkan Kunjungi Github ini : "https://github.com/Tipeengg/Cretivox-Endurance-Test--FrontEndDeveloper.git" 
+//    apabila sudah masuk nanti akan ada button seperti ini "<> Code" 
+// 2. pada bagian menu "HTTPS" silahkan click button "Copy" 
+// 3. buatlah folder terlebih dahulu > masuk ke terminal > masukan perintah di terminal seperti ini tepat ketika folder sudah di masukkan / dibuat "git clone (masukkan link Github pada point 1)" 
+// 4. apabila sudah melakukan running "npm start" lalu muncul message di terminal seperti 
+//    " 'react-scripts' is not recognized as an internal or external command " 
+// 5. maka silahkan tuliskan di terminal seperti ini "npm install react-scripts --save" 
+// 6. silahkan tunggu beberapa menit, ketika sudah selesai, maka silahkan di coba ulang / running "npm start"
+// 
+// SEKIAN TERIMA KASIH 
