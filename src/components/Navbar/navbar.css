@@ -1,0 +1,33 @@
+img {
+  width: 100px;
+  height: 100px;
+}
+
+header {
+  display: flex;
+  justify-content: start;
+  background-color: #2b0945;
+  position: absolute;
+}
+
+.menu-header ul {
+  display: flex;
+  flex-direction: row;
+}
+
+.menu-header li {
+  margin-top: 30px;
+  padding-right: 50px;
+  list-style-type: none;
+}
+
+.menu-header a {
+  text-decoration: none;
+  color: white;
+  font-family: 'Nunito', sans-serif;
+  font-weight: bold;
+}
+
+.menu-header a:hover {
+  color: #f0a500; /* Example hover color */
+}

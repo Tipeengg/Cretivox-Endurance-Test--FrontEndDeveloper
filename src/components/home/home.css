@@ -1,0 +1,107 @@
+.main-home {
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  height: 100vh;
+  background-color: #2b0945;
+}
+
+.main-home h1 {
+  padding-top: 150px;
+  font-family: 'Nunito';
+  font-size: 75px;
+}
+
+.about-me {
+  background-color: #44285b;
+  height: 100vh;
+}
+
+.about-me img {
+  width: 250px;
+  height: 350px;
+  align-items: center;
+  margin-left: 75px;
+}
+
+.about-me h1 {
+  font-size: 30px;
+  text-align: center;
+  font-family: 'Nunito';
+  font-size: 100px;
+  padding-bottom: 50px;
+}
+
+.edu-history {
+  background-color: #2b0945;
+  height: 100vh;
+}
+
+.edu-history img {
+  align-items: center;
+}
+.edu-history h1 {
+  padding-top: 50px;
+  font-size: 50px;
+  padding-bottom: 50px;
+  font-family: 'Nunito';
+  align-items: center;
+  text-align: center;
+}
+
+.edu-history h3 {
+  text-align: center;
+  font-family: 'Nunito';
+  width: 200px;
+  align-items: center;
+  margin-left: 25px;
+  margin-top: 20px;
+  color: #2b0945;
+}
+.edu-history .card {
+  height: 300px;
+  border-radius: 50px;
+  background-color: white;
+}
+
+.edu-history img {
+  margin-top: 15px;
+  width: 150px;
+  margin-left: 50px;
+}
+
+.edu-history .list-edu {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.framework {
+  height: 120vh;
+  background-color: #44285b;
+}
+
+.framework h1{
+  font-size: 50px;
+  align-items: center;
+  padding-left: 20px;
+}
+
+.framework h3{
+  padding-top: 20px;
+  color: black;
+  text-align: center;
+  font-family: 'Nunito';
+}
+
+.framework img{
+  padding-top: 20px;
+  margin-left: 60px;
+  align-items: center;
+  height: 100px;
+  width: 120px;
+}
+
+.framework .card {
+  margin-top: 20px;
+  border-radius: 30px;
+}
